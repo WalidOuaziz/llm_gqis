@@ -1,0 +1,15 @@
+[general]
+name=QGIS LLM Agent
+description=Natural language GIS control via LLM. Type commands, execute geospatial workflows automatically.
+version=2.0
+qgisMinimumVersion=3.34
+author=QGIS LLM Agent Team
+email=
+about=Production-grade QGIS plugin that integrates an LLM to enable natural language control of GIS operations. Supports project management, vector layers, spatial analysis, canvas control, and export.
+tracker=
+repository=https://github.com/
+tags=LLM, AI, NLP, automation, processing, natural-language
+category=Plugins
+icon=
+experimental=False
+deprecated=False
